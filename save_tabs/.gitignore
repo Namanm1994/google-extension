@@ -1,3 +1,5 @@
 # .json output
-
 *output_json.json
+
+# compiled files
+*.pyc
